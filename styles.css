@@ -24,7 +24,7 @@ header {
 header img {
     width: 50px;
     height: auto;
-    transform: translate(10px);
+    transform: translate(-5px);
 }
 
 .navigation ul{
